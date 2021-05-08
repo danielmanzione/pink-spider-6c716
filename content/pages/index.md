@@ -186,7 +186,7 @@ sections:
   - type: cta_section
     title: Ponete en contacto ahora mismo y hacé posible tu sueño!
     content: |
-      # ![](/images/enthusiastic-velociraptor.png)
+      #
     actions:
       - url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=5491135096540"
         style: primary
