@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Refacciones, y Remodelaciones'
+    title: Refaccionamos y Construimos lo que necesites.
     content: >+
       Construimos soluciones de vivienda que posibilitan el mejoramiento de la
       calidad de vida de quienes las habitan.
