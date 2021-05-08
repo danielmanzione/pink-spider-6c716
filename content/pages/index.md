@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: CAlidad- Precio-calidad
     content: >+
       Construimos soluciones de vivienda que posibilitan el mejoramiento de la
       calidad de vida de quienes las habitan.
