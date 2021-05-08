@@ -184,7 +184,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Ponete en contacto ahora mismo y hacé posible tu sueño!
     content: |
       ![](/images/enthusiastic-velociraptor.png)
     actions:
