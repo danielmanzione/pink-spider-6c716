@@ -169,7 +169,7 @@ sections:
   - type: cta_section
     title: Daniel Manzione Obras!
     content: >
-      hace más de dos décadas que trabajo en el rubro de la construcción, he
+      Hace más de dos décadas que trabajo en el rubro de la construcción, he
       aprendido mucho y sigo aprendiendo, soy reconocido por mi acento en los
       detalles de terminación, no importa si los tiempos están ajustados,
       Necesito ver que los ángulos y los niveles estén exactos.
