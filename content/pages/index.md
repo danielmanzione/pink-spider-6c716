@@ -35,7 +35,7 @@ sections:
       - image: images/3.webp
         image_alt: Sanity logo
         image_align: center
-      - image: images/logo-5.svg
+      - image: images/4.webp
         image_alt: DatoCMS logo
         image_align: center
       - image: images/logo-6.svg
