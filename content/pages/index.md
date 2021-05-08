@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Llamanos
         url: /pricing
-        style: primary
+        style: link
     image: images/ceramica.webp
     image_alt: Hero section placeholder image
     media_position: left
