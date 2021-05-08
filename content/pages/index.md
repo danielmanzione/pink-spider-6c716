@@ -60,6 +60,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/2.webp
+        title: Refacciones
       - image_alt: Gridsome logo
         image_align: center
       - image_alt: Git logo
