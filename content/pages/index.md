@@ -24,7 +24,7 @@ sections:
     background_color: primary
     subtitle: Te asesoramos sin cargo
   - type: grid_section
-    title: Image Grid
+    title: Nuestros Servicios
     subtitle: Grid Section Example
     align: center
     grid_items:
