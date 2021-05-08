@@ -42,7 +42,7 @@ sections:
         image_align: left
         content_align: center
         title: Modificaciones
-        title_align: left
+        title_align: center
       - image: images/1.webp
         image_alt: Next.js logo
         image_align: center
