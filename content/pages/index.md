@@ -174,8 +174,7 @@ sections:
       detalles de terminación, no importa si los tiempos están ajustados,
       necesito ver que los ángulos y los niveles estén exactos.
     actions:
-      - label: emamalL
-        url: /features
+      - url: /features
         style: secondary
     actions_position: right
     actions_width: fourty
