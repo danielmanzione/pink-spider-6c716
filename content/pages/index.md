@@ -64,7 +64,7 @@ sections:
         type: grid_item
         image: images/2.webp
         title: Refacciones
-        subtitle: remodelación o de mejoramiento
+        subtitle: remodelación o mejoramiento
       - image_alt: Gridsome logo
         image_align: center
       - image_alt: Git logo
