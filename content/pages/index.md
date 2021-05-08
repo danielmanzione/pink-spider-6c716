@@ -14,7 +14,7 @@ sections:
       - label: Conocenos
         url: /features
         style: secondary
-    image: images/ceramica.jpg
+    image: images/ceramica.webp
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
