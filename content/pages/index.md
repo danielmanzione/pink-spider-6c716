@@ -22,7 +22,7 @@ sections:
     subtitle: Te asesoramos sin cargo
   - type: grid_section
     title: Nuestros Servicios
-    align: left
+    align: center
     grid_items:
       - image: images/3.webp
         image_alt: Sanity logo
