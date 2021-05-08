@@ -25,7 +25,6 @@ sections:
     subtitle: Te asesoramos sin cargo
   - type: grid_section
     title: Nuestros Servicios
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image_alt: Netlify logo
