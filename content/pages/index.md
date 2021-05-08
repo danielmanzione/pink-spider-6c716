@@ -36,7 +36,7 @@ sections:
         image_align: center
         title: Revoques
         title_align: center
-        content_align: center
+        content_align: right
       - image: images/4.webp
         image_alt: DatoCMS logo
         image_align: left
