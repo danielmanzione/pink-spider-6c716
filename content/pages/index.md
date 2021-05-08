@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Calidad- Precio- Seriedad
+    title: Calidad - Precio- Seriedad
     content: >+
       Construimos soluciones de vivienda que posibilitan el mejoramiento de la
       calidad de vida de quienes las habitan.
