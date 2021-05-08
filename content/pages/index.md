@@ -187,10 +187,7 @@ sections:
     title: This is Call To Action Section In DIY Theme!
     content: |
       ![](/images/enthusiastic-velociraptor.png)
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
+    actions: []
     actions_position: bottom
     align: center
     padding_top: large
