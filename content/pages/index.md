@@ -177,6 +177,7 @@ sections:
       - style: secondary
         label: Llamame
         url: 'https://api.whatsapp.com/send?phone=5491135096540'
+        has_icon: true
     actions_position: right
     actions_width: fourty
     align: left
