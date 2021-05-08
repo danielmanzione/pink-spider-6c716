@@ -189,8 +189,7 @@ sections:
   - type: cta_section
     title: Ponete en contacto ahora mismo y hacé posible tu sueño!
     actions:
-      - url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=5491135096540"
-        style: primary
+      - style: primary
         has_icon: true
         icon: arrow-right
         icon_position: left
