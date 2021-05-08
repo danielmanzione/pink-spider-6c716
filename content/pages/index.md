@@ -191,7 +191,7 @@ sections:
       - url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=5491135096540"
         style: primary
         has_icon: true
-        icon: arrow-left
+        icon: arrow-right
         icon_position: left
         new_window: true
         no_follow: false
