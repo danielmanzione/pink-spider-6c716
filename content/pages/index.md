@@ -190,7 +190,7 @@ sections:
     actions:
       - url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=5491135096540"
         style: primary
-        has_icon: false
+        has_icon: true
         icon: arrow-left
         icon_position: right
         new_window: false
