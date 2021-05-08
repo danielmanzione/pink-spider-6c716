@@ -46,6 +46,7 @@ sections:
       - image: images/1.webp
         image_alt: Next.js logo
         image_align: center
+        title: Albañilería
       - title_align: left
         content_align: left
         actions: []
