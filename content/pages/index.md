@@ -42,6 +42,7 @@ sections:
         content_align: center
         title: Plomería y gas
         title_align: left
+        subtitle: 'Remoción e instalación de artefactos, cañerías de agua y gas.'
       - image: images/1.webp
         image_alt: Next.js logo
         image_align: center
