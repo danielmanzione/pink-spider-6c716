@@ -35,7 +35,8 @@
                 "url": "﻿﻿https://api.whatsapp.com/send?phone=5491135096540",
                 "style": "secondary",
                 "has_icon": true,
-                "new_window": true
+                "new_window": true,
+                "icon": "facebook"
             },
             {
                 "label": "Instagram",
