@@ -50,7 +50,7 @@ sections:
         title: Construcción
         title_align: center
         subtitle: emprender un nuevo proyecto
-        content_align: center
+        content_align: right
       - title_align: left
         content_align: left
         actions: []
