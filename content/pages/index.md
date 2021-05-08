@@ -9,7 +9,7 @@ sections:
       calidad de vida de quienes las habitan.
 
     actions:
-      - label: Try Free
+      - label: Llamanos
         url: /pricing
         style: primary
       - label: Learn More
