@@ -37,7 +37,7 @@ sections:
         image_align: center
       - image: images/4.webp
         image_alt: DatoCMS logo
-        image_align: center
+        image_align: left
         content_align: center
       - image: images/1.webp
         image_alt: Next.js logo
