@@ -32,7 +32,7 @@ sections:
         image_align: center
       - image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/3.webp
         image_alt: Sanity logo
         image_align: center
       - image: images/logo-5.svg
