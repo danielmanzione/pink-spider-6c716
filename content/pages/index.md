@@ -79,7 +79,7 @@ sections:
           para viviendas.
 
         actions:
-          - label: Learn More
+          - label: Consultame
             url: /style-guide
             style: primary
             has_icon: true
