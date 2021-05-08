@@ -189,7 +189,7 @@ sections:
       ![](/images/enthusiastic-velociraptor.png)
     actions:
       - url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=5491135096540"
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
