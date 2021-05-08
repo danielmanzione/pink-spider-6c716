@@ -65,7 +65,7 @@ sections:
     title: Cómo trabajamos
     subtitle: Features Section Example
     features:
-      - title: 'Presupuesto '
+      - title: Presupuesto express
         content: >+
           Ejecutamos obras de recuperación, remodelación y adaptación edilicia
           para viviendas.
