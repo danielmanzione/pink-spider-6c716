@@ -168,10 +168,11 @@ sections:
     background_color: none
   - type: cta_section
     title: Daniel Manzione Obras!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      hace más de dos décadas que trabajo en el rubro de la construcción, he
+      aprendido mucho y sigo aprendiendo, soy reconocido por mi acento en los
+      detalles de terminación, no importa si los tiempos están ajustados,
+      Necesito ver que los ángulos y los niveles estén exactos.
     actions:
       - label: Learn More
         url: /features
