@@ -3,7 +3,62 @@ title: Home
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
+    subtitle: >-
+      Asesoria sin Cargo  Construimos soluciones de vivienda que posibilitan el
+      mejoramiento de la calidad de vida de quienes las habitan.  Llamanos
+      Conocenos Grid Section Example Image Grid Contentful logo Netlify logo
+      Gatsby logo Sanity logo DatoCMS logo Next.js logo Gridsome logo Git logo
+      Features Section Example Features Section Feature 1 placeholder image The
+      Big Title For the Feature In fermentum odio et tortor laoreet, sed
+      interdum augue ornare.  Lorem ipsum dolor sit amet, consectetur adipiscing
+      elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus.
+      Vivamus in nibh fringilla, fringilla.  Learn More Feature 2 placeholder
+      image The Big Title For the Feature Ac felis donec et odio pellentesque.
+      Sagittis vitae et leo duis ut diam quam nulla. Ullamcorper a lacus
+      vestibulum sed arcu non odio euismod lacinia.  Learn More Feature 3
+      placeholder image The Big Title For the Feature Sed sed commodo turpis,
+      eget rutrum dui.  Ac felis donec et odio pellentesque. Sagittis vitae et
+      leo duis ut diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non
+      odio euismod lacinia.  Learn More Brandon Guidelines “Stackbit is fast!
+      Themes are always up to date. It’s easy to use across the organization,
+      and collaboration is easy.” Brandon Guidelines, Sr. Design Manager at
+      Company  Grid Section Example Cards Grid Section Section item 1 icon
+      Section Item 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Donec nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus
+      in nibh fringilla, fringilla.  Learn More Section item 2 icon Section Item
+      2 Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+      quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
+      lacinia.  Learn More Section item 3 icon Section Item 3 Ac felis donec et
+      odio pellentesque. Sagittis vitae et leo duis ut diam quam nulla.
+      Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.  Learn
+      More Grid Section Example Reviews Section Hanson Deck Lorem ipsum dolor
+      sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id
+      molestie vel, maximus aliquet risus.  Hanson Deck, App Developer, Studio 
+      Miles Tone Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
+      nisl ligula, cursus id molestie vel, maximus aliquet risus.  Miles Tone,
+      CEO, Studio  Eleanor Carr Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus
+      aliquet risus.  Eleanor Carr, CTO, Studio  Gordon Norman Lorem ipsum dolor
+      sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id
+      molestie vel, maximus aliquet risus.  Gordon Norman, Web Designer, Studio 
+      This is Call To Action Section In DIY Theme! Lorem ipsum dolor sit amet,
+      consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel,
+      maximus aliquet risus. Vivamus in nibh fringilla, fringilla.  Learn More
+      Grid Section Example Team Section  Gustav Purpleson Co-Founder & CEO  
+      Dianne Ameter Software Engineer   Hugh Saturation Developer Advocate  
+      Hilary Ouse Operations Manager  Join the team Blog Feed Section Example
+      What's New Post 5 placeholder image Tutorials · June 02, 2020 Amet Nulla
+      Facilisi Morbi Tempus Gustav Purpleson Gustav Purpleson Post 4 placeholder
+      image Tutorials, News · May 30, 2020 Vos Autem Cum Perspicuis Dubia
+      Debeatis Illustrare Dianne Ameter Dianne Ameter Post 3 placeholder image
+      General · May 28, 2020 Cur Ipse Pythagoras Et Aegyptum Lustravit Gustav
+      Purpleson Gustav Purpleson View All This is Call To Action Section In DIY
+      Theme! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.  Button DIY logo Company About Style Guide Blog News
+      General Tutorials Legal Terms & Conditions Privacy Policy © Stackbit. All
+      rights reserved. This Jamstack site was created with Stackbit. Create
+      yours now TwitterGitHubLinkedInYouTubeVimeo
     content: >+
       Construimos soluciones de vivienda que posibilitan el mejoramiento de la
       calidad de vida de quienes las habitan.
