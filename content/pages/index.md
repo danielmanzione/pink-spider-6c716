@@ -39,7 +39,7 @@ sections:
       - image: images/4.webp
         image_alt: DatoCMS logo
         image_align: left
-        content_align: center
+        content_align: right
         title: Plomería y gas
         title_align: left
         subtitle: 'Remoción e instalación de artefactos, cañerías de agua y gas.'
