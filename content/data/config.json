@@ -48,7 +48,7 @@
         "anncmnt_content": "##### Mail: danielmanzioneobras@gmail.com               Tel. 11 3509-6540\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": false,
-        "anncmnt_has_close": false,
+        "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
     "footer": {
