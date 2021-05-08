@@ -46,7 +46,7 @@
                 "style": "link"
             },
             {
-                "label": "Get Started",
+                "label": "Pedir presupuesto",
                 "url": "/pricing",
                 "style": "primary"
             }
