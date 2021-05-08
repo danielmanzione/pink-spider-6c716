@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    subtitle: Asesoría sin cargo
+    subtitle: Te asesoramos sin cargo
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
