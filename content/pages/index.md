@@ -188,7 +188,7 @@ sections:
     content: |
       ![](/images/enthusiastic-velociraptor.png)
     actions:
-      - label: lorem-ipsum
+      - label: ppastahW
         url: '#'
         style: link
         has_icon: false
