@@ -9,7 +9,7 @@ sections:
 
     actions:
       - label: Llamanos
-        url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=5491135096540"
+        url: 'https://api.whatsapp.com/send?phone=5491135096540'
         style: primary
     image: images/ceramica.webp
     image_alt: Hero section placeholder image
