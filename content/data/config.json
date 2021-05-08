@@ -34,7 +34,7 @@
                 "label": "Contactarme",
                 "url": "/contact",
                 "style": "link",
-                "has_icon": false
+                "has_icon": true
             },
             {
                 "label": "Instagram",
