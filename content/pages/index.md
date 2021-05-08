@@ -72,7 +72,7 @@ sections:
 
         actions:
           - label: Consultame
-            url: /style-guide
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
