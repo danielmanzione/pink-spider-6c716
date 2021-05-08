@@ -11,9 +11,6 @@ sections:
       - label: Llamanos
         url: /pricing
         style: primary
-      - label: Conocenos
-        url: /features
-        style: secondary
     image: images/ceramica.webp
     image_alt: Hero section placeholder image
     media_position: left
