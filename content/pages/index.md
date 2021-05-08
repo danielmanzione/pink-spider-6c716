@@ -176,6 +176,7 @@ sections:
     actions:
       - url: /features
         style: secondary
+        label: Llamame
     actions_position: right
     actions_width: fourty
     align: left
