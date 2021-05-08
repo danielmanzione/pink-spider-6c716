@@ -48,7 +48,7 @@ sections:
         image_align: center
         title: Construcción
         title_align: center
-        subtitle: Emprender un nuevo proyecto
+        subtitle: emprender un nuevo proyecto
       - title_align: left
         content_align: left
         actions: []
