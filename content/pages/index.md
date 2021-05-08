@@ -36,6 +36,7 @@ sections:
         image_alt: Sanity logo
         image_align: center
         title: Revoques
+        title_align: center
       - image: images/4.webp
         image_alt: DatoCMS logo
         image_align: left
