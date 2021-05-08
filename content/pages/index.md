@@ -187,7 +187,16 @@ sections:
     title: This is Call To Action Section In DIY Theme!
     content: |
       ![](/images/enthusiastic-velociraptor.png)
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_position: bottom
     align: center
     padding_top: large
