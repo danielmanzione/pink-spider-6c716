@@ -40,7 +40,7 @@ sections:
         image_alt: DatoCMS logo
         image_align: left
         content_align: center
-        title: Modificaciones
+        title: Plomería y gas
         title_align: left
       - image: images/1.webp
         image_alt: Next.js logo
