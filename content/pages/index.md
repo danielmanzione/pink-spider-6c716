@@ -30,8 +30,7 @@ sections:
     grid_items:
       - image_alt: Netlify logo
         image_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
+      - image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
         image_alt: Sanity logo
