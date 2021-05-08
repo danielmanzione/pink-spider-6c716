@@ -41,8 +41,7 @@ sections:
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
