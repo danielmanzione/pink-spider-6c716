@@ -12,7 +12,7 @@ sections:
       - label: Llamanos
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Conocenos
         url: /features
         style: secondary
     image: images/slide1-bg.jpg
