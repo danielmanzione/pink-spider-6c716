@@ -42,8 +42,6 @@ sections:
         image_alt: Next.js logo
         image_align: center
       - title_align: left
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
