@@ -72,10 +72,10 @@ sections:
     subtitle: Features Section Example
     features:
       - title: 'Refacción de casas '
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Ejecutamos obras de recuperación, remodelación y adaptación edilicia
+          para viviendas.
+
         actions:
           - label: Learn More
             url: /style-guide
