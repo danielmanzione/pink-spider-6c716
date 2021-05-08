@@ -41,6 +41,7 @@ sections:
         image_alt: DatoCMS logo
         image_align: left
         content_align: center
+        title: Modificaciones
       - image: images/1.webp
         image_alt: Next.js logo
         image_align: center
