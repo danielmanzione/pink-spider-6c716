@@ -36,7 +36,8 @@
                 "style": "secondary",
                 "has_icon": true,
                 "new_window": true,
-                "icon": "facebook"
+                "icon": "facebook",
+                "icon_position": "center"
             },
             {
                 "label": "Instagram",
