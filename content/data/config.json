@@ -33,7 +33,7 @@
             {
                 "label": "Whatsapp",
                 "url": "﻿﻿https://api.whatsapp.com/send?phone=5491135096540",
-                "style": "primary",
+                "style": "secondary",
                 "has_icon": true
             },
             {
