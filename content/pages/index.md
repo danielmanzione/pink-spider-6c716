@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Refacciones, Mantenimiento o Remodelaciones'
+    title: 'Refacciones, y Remodelaciones'
     content: >+
       Construimos soluciones de vivienda que posibilitan el mejoramiento de la
       calidad de vida de quienes las habitan.
