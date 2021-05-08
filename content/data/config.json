@@ -32,7 +32,7 @@
         "secondary_nav_links": [
             {
                 "label": "Whatsapp",
-                "url": "﻿﻿https://api.whatsapp.com/send?phone=5491135096540",
+                "url": "https://api.whatsapp.com/send?phone=5491135096540",
                 "style": "secondary",
                 "has_icon": true,
                 "new_window": true,
