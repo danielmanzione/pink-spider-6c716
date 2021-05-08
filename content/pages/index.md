@@ -26,8 +26,6 @@ sections:
     grid_items:
       - image_alt: Netlify logo
         image_align: center
-      - image_alt: Gatsby logo
-        image_align: center
       - image: images/3.webp
         image_alt: Sanity logo
         image_align: center
