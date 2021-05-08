@@ -174,7 +174,7 @@ sections:
       detalles de terminación, no importa si los tiempos están ajustados,
       necesito ver que los ángulos y los niveles estén exactos.
     actions:
-      - url: /features
+      - url: "\uFEFF\uFEFFhttps://api.whatsapp.com/send?phone=5491135096540"
         style: secondary
         label: Llamame
     actions_position: right
