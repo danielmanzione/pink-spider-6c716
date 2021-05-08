@@ -197,6 +197,7 @@ sections:
         no_follow: false
         type: action
         label: WHATSAPP
+        url: 'https://api.whatsapp.com/send?phone=5491135096540'
     actions_position: bottom
     align: center
     padding_top: large
