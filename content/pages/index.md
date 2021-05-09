@@ -34,7 +34,7 @@ sections:
       - image: images/canios.png
         image_alt: DatoCMS logo
         image_align: left
-        content_align: right
+        content_align: center
         title: Conexiones
         title_align: center
         subtitle: >-
