@@ -75,7 +75,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/textura.webp
-      - title: lorem-ipsum
+      - title: Colocación de Durlock
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
