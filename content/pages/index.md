@@ -68,7 +68,7 @@ sections:
           agradable.
       - title: Pintura en General
         subtitle: >-
-          trabajos en interiores y exteriores de casas particulares,
+          Trabajos en interiores y exteriores de casas particulares,
           departamentos, galpones, locales.
         title_align: center
         content_align: center
