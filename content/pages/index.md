@@ -30,7 +30,10 @@ sections:
         title: Albañilería
         title_align: center
         content_align: right
-        subtitle: 'Remodelaciones, Construcciones, Ampliaciones.'
+        subtitle: >-
+          Construimos losas, techo de chapas, paredes de ladrillo (común, hueco,
+          etc), revoques, contrapisos sobre terreno natural o sobre losas, y
+          más.
       - image: images/canios.png
         image_alt: DatoCMS logo
         image_align: center
