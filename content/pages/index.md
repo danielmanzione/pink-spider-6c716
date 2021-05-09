@@ -57,7 +57,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/pintura.webp
-        title: Refacciones
+        title: Revestimientos con texturas
         subtitle: remodelación o mejoramiento
     grid_cols: two
     grid_gap_horiz: small
