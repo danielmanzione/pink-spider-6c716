@@ -61,7 +61,7 @@ sections:
         image: images/pintura.webp
         title: Revestimientos con texturas
         subtitle: Colcoación de revestimiento tipo tarquini.
-      - title: lorem-ipsum
+      - title: Pintura en General
         subtitle: lorem-ipsum
         title_align: left
         content: >-
