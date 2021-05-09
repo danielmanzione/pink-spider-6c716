@@ -36,7 +36,7 @@ sections:
         image_align: left
         content_align: right
         title: Conexiones
-        title_align: left
+        title_align: center
         subtitle: >-
           Remoción e instalación de artefactos, cañerías de agua, electricidad y
           gas.
