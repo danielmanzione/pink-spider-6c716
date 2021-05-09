@@ -23,7 +23,7 @@ sections:
       - input_type: text
         name: Nombre
         label: Nombre
-        default_value: lorem-ipsum
+        default_value: Juan
         options: []
         is_required: false
         type: form_field
