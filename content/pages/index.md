@@ -117,8 +117,7 @@ sections:
     features:
       - title: >-
           “logramos que puedas disfrutar de tu proyecto, trabajando con ideas
-          bien definidas, presupuestos claros y detallados, siempre enfocados en
-          tu presupuesto..”
+          bien definidas, presupuestos claros y detallados.”
         subtitle: 'Daniel Sergio Manzione, Director'
         image: images/man.webp
         image_alt: Brandon Guidelines
