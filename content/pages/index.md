@@ -130,10 +130,10 @@ sections:
     grid_items:
       - title: Paso 1
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Completá el formulario y adjuntando fotografías podemos calcular y
+          presentarte un presupuesto en forma remota, esto hace posible evitar
+          largas esperas y tiempo perdido.
         content_align: left
         actions:
           - label: Learn More
