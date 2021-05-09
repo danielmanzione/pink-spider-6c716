@@ -67,7 +67,9 @@ sections:
           Renovamos paredes transformando el ambiente en un lugar moderno y
           agradable.
       - title: Pintura en General
-        subtitle: 'Arreglos de humedad, pintura interior y exterior'
+        subtitle: >-
+          trabajos en interiores y exteriores de casas particulares,
+          departamentos, galpones, locales etc
         title_align: center
         content_align: center
         actions: []
