@@ -58,7 +58,7 @@ sections:
         type: grid_item
         image: images/pintura.webp
         title: Revestimientos con texturas
-        subtitle: Colcoación de revestimiento tarquini.
+        subtitle: Colcoación de revestimiento tipo tarquini.
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: medium
