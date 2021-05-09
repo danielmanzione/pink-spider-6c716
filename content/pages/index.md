@@ -77,7 +77,7 @@ sections:
         image: images/textura.webp
       - title: Colocación de Durlock
         subtitle: Durlock en paredes y cielorrasos
-        title_align: center
+        title_align: left
         content_align: center
         actions: []
         actions_align: left
