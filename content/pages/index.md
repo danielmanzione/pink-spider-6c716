@@ -126,7 +126,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: En solo 3 pasos
+    title: Tu presupuesto en solo 3 pasos
     grid_items:
       - title: Paso 1
         title_align: left
