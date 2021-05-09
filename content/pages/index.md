@@ -35,7 +35,7 @@ sections:
         image_alt: DatoCMS logo
         image_align: center
         content_align: center
-        title: Conexiones
+        title: Instalaciones
         title_align: center
         subtitle: >-
           Remoción e instalación de artefactos, cañerías de agua, electricidad y
