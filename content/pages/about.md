@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Nosotros
+      - title: Qué brindamos
         subtitle: >-
           Te ofrecemos un servicio integral sobre refacciones, reformas,
           albañilería, plomeros, electricistas y todo lo que necesita para hacer
