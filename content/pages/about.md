@@ -11,8 +11,8 @@ sections:
       - title: Qué brindamos
         subtitle: >-
           Te ofrecemos un servicio integral sobre refacciones, reformas,
-          albañilería, plomeros, electricistas y todo lo que necesita para hacer
-          tu obra
+          albañilería, plomeros, electricistas y todo lo que necesitas para
+          hacer tu obra
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
