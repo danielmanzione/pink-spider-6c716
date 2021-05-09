@@ -16,12 +16,9 @@ sections:
         content: >
           Ya sean casas particulares, edificios, asociaciones, centros
           comerciales, locales, oficinas, garajes, obra nueva, refacciones
-          integrales de edificios. Si algo se puede reformar nosotros podemos
-          hacerlo.
-
-
-          Reformas integrales, eléctricas, de pintura, albañilería, plomería,
-          aire acondicionado, exteriores, carpintería, herrería y steel frame.
+          integrales de edificios. Reformas integrales, eléctricas, de pintura,
+          albañilería, plomería, aire acondicionado, exteriores, carpintería,
+          herrería y steel frame.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
