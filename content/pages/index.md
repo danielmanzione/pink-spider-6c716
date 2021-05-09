@@ -152,8 +152,8 @@ sections:
         title_align: left
         content: >
           Una vez que disponés del presupuesto nos ponemos en contacto y
-          coordinamos una visita para evaluar los últimos detalles, y también
-          para ponernos de acuerdo en los plazos de inicio y fin de la obra.
+          coordinamos una visita para evaluar los últimos detalles, y ponernos
+          de acuerdo en los plazos de inicio y fin de la obra.
         content_align: left
         actions:
           - label: Learn More
