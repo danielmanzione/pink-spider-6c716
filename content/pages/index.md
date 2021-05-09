@@ -43,7 +43,7 @@ sections:
       - image: images/important-petunia.webp
         image_alt: Next.js logo
         image_align: center
-        title: Construcción
+        title: Construcciones Y Refacciones
         title_align: center
         subtitle: emprender un nuevo proyecto
         content_align: right
