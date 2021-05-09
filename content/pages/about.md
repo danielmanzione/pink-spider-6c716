@@ -20,9 +20,8 @@ sections:
           hacerlo.
 
 
-          Reformas integrales, eléctricas, de pintura, albañilería, fontanería,
-          solados, alicatados, calefacción, aire acondicionado, exteriores,
-          carpintería
+          Reformas integrales, eléctricas, de pintura, albañilería, plomería,
+          aire acondicionado, exteriores, carpintería, herrería y steel frame.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
