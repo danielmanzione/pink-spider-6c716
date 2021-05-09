@@ -45,7 +45,7 @@ sections:
         image_align: center
         title: Construcciones Y Refacciones
         title_align: center
-        subtitle: emprender un nuevo proyecto
+        subtitle: 'Realizamos obras desde cero, ampliaciones y refacciones'
         content_align: right
       - title_align: center
         content_align: left
