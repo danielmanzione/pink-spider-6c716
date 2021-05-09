@@ -47,7 +47,7 @@ sections:
         title_align: center
         subtitle: emprender un nuevo proyecto
         content_align: right
-      - title_align: left
+      - title_align: center
         content_align: left
         actions: []
         actions_align: left
