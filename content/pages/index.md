@@ -69,7 +69,7 @@ sections:
       - title: Pintura en General
         subtitle: >-
           Trabajos en interiores y exteriores de casas particulares,
-          departamentos,, locales.
+          departamentos, locales.
         title_align: center
         content_align: center
         actions: []
