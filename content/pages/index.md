@@ -64,8 +64,8 @@ sections:
         image: images/pintura.webp
         title: Revestimientos con texturas
         subtitle: >-
-          renovar paredes viejas y con imperfecciones transformando el ambiente
-          en un lugar moderno y agradable.
+          Renovamos paredes transformando el ambiente en un lugar moderno y
+          agradable.
       - title: Pintura en General
         subtitle: 'Arreglos de humedad, pintura interior y exterior'
         title_align: center
