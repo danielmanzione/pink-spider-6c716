@@ -239,7 +239,7 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
+  title: Daniel Manzione Obras
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
