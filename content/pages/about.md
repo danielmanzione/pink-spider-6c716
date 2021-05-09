@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Nosotros
-    subtitle: About Page Demo
+    subtitle: Quiénes somos
     align: center
     background_color: secondary
   - type: features_section
