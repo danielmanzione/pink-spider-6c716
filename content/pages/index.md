@@ -35,7 +35,7 @@ sections:
         image_alt: DatoCMS logo
         image_align: left
         content_align: right
-        title: Plomería y gas
+        title: Conexiones
         title_align: left
         subtitle: 'Remoción e instalación de artefactos, cañerías de agua y gas.'
       - image: images/important-petunia.webp
