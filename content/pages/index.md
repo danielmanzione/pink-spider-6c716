@@ -62,7 +62,7 @@ sections:
         title: Revestimientos con texturas
         subtitle: Colcoación de revestimiento tipo tarquini.
       - title: Pintura en General
-        subtitle: lorem-ipsum
+        subtitle: 'Arreglos de humedad, pintura interior y exterior'
         title_align: left
         content: >-
           ## Lorem ipsum
