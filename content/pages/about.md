@@ -13,10 +13,16 @@ sections:
           Te ofrecemos un servicio integral sobre refacciones, reformas,
           albañilería, plomeros, electricistas y todo lo que necesitas para
           hacer tu obra
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Ya sean casas particulares, edificios, asociaciones, centros
+          comerciales, locales, oficinas, garajes, obra nueva, refacciones
+          integrales de edificios. Si algo se puede reformar nosotros podemos
+          hacerlo.
+
+
+          Reformas integrales, eléctricas, de pintura, albañilería, fontanería,
+          solados, alicatados, calefacción, aire acondicionado, exteriores,
+          carpintería
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
