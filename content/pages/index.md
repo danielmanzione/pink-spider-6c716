@@ -150,10 +150,10 @@ sections:
         image_has_padding: true
       - title: Paso 2
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Una vez que disponés del presupuesto nos ponemos en contacto y
+          coordinamos una visita para evaluar los últimos detalles, y también
+          para ponernos de acuerdo en los plazos de inicio y fin de la obra.
         content_align: left
         actions:
           - label: Learn More
