@@ -76,7 +76,7 @@ sections:
         type: grid_item
         image: images/textura.webp
       - title: Colocación de Durlock
-        subtitle: lorem-ipsum
+        subtitle: Durlock en paredes y cielorrasos
         title_align: left
         content_align: left
         actions: []
