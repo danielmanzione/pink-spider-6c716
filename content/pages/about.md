@@ -12,7 +12,7 @@ sections:
         subtitle: >-
           Le ofrecemos un servicio integral sobre refacciones, reformas,
           albañilería, plomeros, electricistas y todo lo que necesita para hacer
-          de su obra
+          su obra
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
