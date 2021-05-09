@@ -24,7 +24,7 @@ sections:
     title: Nuestros Servicios
     align: center
     grid_items:
-      - image: images/construccion.webp
+      - image: images/albanileria.webp
         image_alt: Sanity logo
         image_align: center
         title: Albañilería
