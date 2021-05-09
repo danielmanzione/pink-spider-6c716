@@ -240,7 +240,7 @@ sections:
     background_color: secondary
 seo:
   title: Daniel Manzione Obras
-  description: The preview of the DIY theme
+  description: 'Refacciones, remodelaciones y ampliaciones de casas en Buenos Aires'
   extra:
     - name: 'og:type'
       value: website
