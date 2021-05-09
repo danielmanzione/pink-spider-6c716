@@ -33,7 +33,7 @@ sections:
         subtitle: 'Remodelaciones, Construcciones, Refacciones en general.'
       - image: images/canios.png
         image_alt: DatoCMS logo
-        image_align: left
+        image_align: center
         content_align: center
         title: Conexiones
         title_align: center
