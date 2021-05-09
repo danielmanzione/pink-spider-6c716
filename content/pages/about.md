@@ -9,7 +9,10 @@ sections:
   - type: features_section
     features:
       - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Le ofrecemos un servicio integral sobre refacciones, reformas,
+          albañilería, plomeros, electricistas y todo lo que necesita para hacer
+          de su obra
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
