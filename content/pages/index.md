@@ -56,7 +56,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/2.webp
+        image: images/pintura.webp
         title: Refacciones
         subtitle: remodelación o mejoramiento
     grid_cols: two
