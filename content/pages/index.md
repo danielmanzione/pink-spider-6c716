@@ -94,7 +94,6 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Cómo trabajamos
-    subtitle: Features Section Example
     features:
       - title: Presupuesto express
         content: >+
