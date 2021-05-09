@@ -96,10 +96,9 @@ sections:
     title: Cómo trabajamos
     features:
       - title: Presupuesto express
-        content: >+
-          Ejecutamos obras de recuperación, remodelación y adaptación edilicia
-          para viviendas.
-
+        content: >
+          Te preparamos y presentamos tu presupuesto en el día, con unas breves
+          preguntas y subiendo fotos
         actions:
           - label: Consultame
             url: /contact
