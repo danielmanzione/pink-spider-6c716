@@ -124,5 +124,6 @@
         ],
         "content": "&copy; Desarrolla <a href=\"https://www.alitoweb.com.ar\" target=\"_blank\" rel=\"noopener\">Alitoweb</a>. Crea tu web <a href=\"https://alitoweb.com.ar\" target=\"_blank\" rel=\"noopener\">Ahora</a>"
     },
-    "domain": "https://pink-spider-6c716.netlify.app"
+    "domain": "https://pink-spider-6c716.netlify.app",
+    "favicon": "images/casa[Convertido].png"
 }
