@@ -30,7 +30,7 @@ sections:
         title: Albañilería
         title_align: center
         content_align: right
-        subtitle: 'Remodelaciones, Construcciones, Refacciones en general.'
+        subtitle: 'Remodelaciones, Construcciones, Ampliaciones.'
       - image: images/canios.png
         image_alt: DatoCMS logo
         image_align: center
