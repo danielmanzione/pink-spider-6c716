@@ -12,7 +12,7 @@ sections:
     has_border: true
     background_color: none
   - title: Contacto
-    subtitle: lorem-ipsum
+    subtitle: Escribinos
     title_align: left
     content: >-
       ## Lorem ipsum
