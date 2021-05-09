@@ -98,7 +98,7 @@ sections:
       - title: Presupuesto express
         content: >
           Te preparamos y presentamos tu presupuesto en el día, con unas breves
-          preguntas y subiendo fotos
+          preguntas y subiendo algunas fotos.
         actions:
           - label: Consultame
             url: /contact
