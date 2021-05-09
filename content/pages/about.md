@@ -10,7 +10,7 @@ sections:
     features:
       - title: Section Title One
         subtitle: >-
-          Le ofrecemos un servicio integral sobre refacciones, reformas,
+          Te ofrecemos un servicio integral sobre refacciones, reformas,
           albañilería, plomeros, electricistas y todo lo que necesita para hacer
           tu obra
         content: >-
