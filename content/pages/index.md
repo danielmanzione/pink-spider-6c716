@@ -74,6 +74,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/textura.webp
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: medium
