@@ -27,7 +27,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: lorem-ipsum
+    submit_label: Enviar
     align_vert: top
     padding_top: medium
     padding_bottom: medium
