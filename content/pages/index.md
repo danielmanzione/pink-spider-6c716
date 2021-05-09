@@ -27,7 +27,7 @@ sections:
       - image: images/3.webp
         image_alt: Sanity logo
         image_align: center
-        title: Revoques
+        title: Albañilería
         title_align: center
         content_align: right
       - image: images/4.webp
