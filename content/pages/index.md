@@ -63,7 +63,7 @@ sections:
         subtitle: Colcoación de revestimiento tipo tarquini.
       - title: Pintura en General
         subtitle: 'Arreglos de humedad, pintura interior y exterior'
-        title_align: left
+        title_align: center
         content_align: center
         actions: []
         actions_align: left
