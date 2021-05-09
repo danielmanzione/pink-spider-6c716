@@ -64,7 +64,7 @@ sections:
       - title: Pintura en General
         subtitle: 'Arreglos de humedad, pintura interior y exterior'
         title_align: left
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
