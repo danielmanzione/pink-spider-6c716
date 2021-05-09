@@ -19,7 +19,7 @@ sections:
           integrales de edificios. Reformas integrales, eléctricas, de pintura,
           albañilería, plomería, aire acondicionado, exteriores, carpintería,
           herrería y steel frame.
-        image: images/about-5.jpg
+        image: images/constructor3.webp
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
