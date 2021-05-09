@@ -78,7 +78,7 @@ sections:
       - title: Colocación de Durlock
         subtitle: Durlock en paredes y cielorrasos
         title_align: center
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
